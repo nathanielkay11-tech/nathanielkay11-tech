@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nathaniel Kay 👋
 
-<!--
-**nathanielkay11-tech/nathanielkay11-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AWS Certified Solutions Architect · AI Systems · Amsterdam, NL 🇳🇱**
 
-Here are some ideas to get you started:
+I build production-grade AI and cloud infrastructure — from serverless pipelines to multi-agent systems. Currently transitioning into Solutions Architect and Solutions Engineer roles at AI and cloud companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Certifications
+- 🟡 AWS Certified AI Practitioner — April 2026
+- 🟠 AWS Certified Solutions Architect – Associate — March 2026
+- ⬜ AWS Certified Cloud Practitioner — February 2026
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Serverless AI Document Intelligence Pipeline
+Event-driven pipeline automating insurance claims processing end-to-end.  
+**Stack:** S3 → Lambda → Textract → Bedrock → DynamoDB → SNS/SQS · Terraform IaC  
+📉 98.7% cost reduction vs manual processing · [▶️ Live Demo](https://www.youtube.com/watch?v=TYg1RSfvLNQ)
+
+---
+
+### 🔍 AWS Bedrock RAG Pipeline ⚙️ WIP
+Retrieval-Augmented Generation pipeline built on Amazon Bedrock — semantic search and document retrieval for enterprise AI applications.  
+**Stack:** AWS Bedrock · S3 · Lambda · Terraform · Python  
+[View Project](https://github.com/nathanielkay11-tech/aws-bedrock-rag-pipeline)
+
+---
+
+### ☁️ High-Availability Three-Tier AWS Stack
+Production-pattern HA infrastructure — ALB, ASG, EC2, RDS Multi-AZ, dual NAT Gateways.  
+**Stack:** Terraform · AWS VPC · RDS · EC2
+
+---
+
+## 🔭 Currently
+- 🏢 Solutions Architect @ Latent Knowledge
+- 🎯 Targeting SE/SA roles at AWS partners and AI companies in Amsterdam
+- 🛠️ Building: AWS Bedrock RAG Pipeline
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-kay-8b4ab368/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathanielkay11@gmail.com)
