@@ -7,9 +7,9 @@ I build production-grade AI and cloud infrastructure — from serverless pipelin
 ---
 
 ## 🏅 Certifications
-- 🟡 AWS Certified AI Practitioner — April 2026
-- 🟠 AWS Certified Solutions Architect – Associate — March 2026
-- ⬜ AWS Certified Cloud Practitioner — February 2026
+- 🟡 AWS Certified AI Practitioner 
+- 🟠 AWS Certified Solutions Architect – Associate 
+- ⬜ AWS Certified Cloud Practitioner
 
 ---
 
