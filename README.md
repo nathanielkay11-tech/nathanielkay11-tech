@@ -34,7 +34,8 @@ Production-grade RAG system enabling lawyers to ask natural language questions a
 ### ☁️ High-Availability Three-Tier AWS Stack
 Production-pattern HA infrastructure — ALB, ASG, EC2, RDS Multi-AZ, dual NAT Gateways.  
 **Stack:** Terraform · AWS VPC · RDS · EC2
-[View Project]([https://github.com/nathanielkay11-tech/aws-three-tier-ha-stack)]
+
+[View Project](https://github.com/nathanielkay11-tech/aws-three-tier-wordpress-stack)
 
 ---
 
