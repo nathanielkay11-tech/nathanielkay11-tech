@@ -15,19 +15,19 @@ I build production-grade AI and cloud infrastructure — from serverless pipelin
 
 ## 🚀 Featured Projects
 
-### 🤖 Serverless AI Document Intelligence Pipeline
-Event-driven pipeline automating insurance claims processing end-to-end.  
-**Stack:** S3 → Lambda → Textract → Bedrock → DynamoDB → SNS/SQS · Terraform IaC  
-📉 98.7% cost reduction vs manual processing · [▶️ Live Demo](https://www.youtube.com/watch?v=TYg1RSfvLNQ) · [View Project](https://github.com/nathanielkay11-tech/aws-ai-document-pipeline)
-
----
-
 ### 🔍 AWS Bedrock RAG Pipeline — Legal Document Intelligence
 Production-grade RAG system enabling lawyers to ask natural language questions across an entire contract library and receive precise answers with verifiable source citations. Includes multilingual support, automated ingestion, and pre-signed URL document access.
 
 **Stack:** Bedrock Knowledge Bases · OpenSearch Serverless · Lambda · API Gateway · S3 · Terraform IaC
 
 📉 99.8% cost reduction vs manual associate review · [▶️ Watch Demo](https://youtu.be/Sdih82BqQtI) · [View Project](https://github.com/nathanielkay11-tech/aws-bedrock-rag-pipeline)
+
+---
+
+### 🤖 Serverless AI Document Intelligence Pipeline
+Event-driven pipeline automating insurance claims processing end-to-end.  
+**Stack:** S3 → Lambda → Textract → Bedrock → DynamoDB → SNS/SQS · Terraform IaC  
+📉 98.7% cost reduction vs manual processing · [▶️ Live Demo](https://www.youtube.com/watch?v=TYg1RSfvLNQ) · [View Project](https://github.com/nathanielkay11-tech/aws-ai-document-pipeline)
 
 ---
 
