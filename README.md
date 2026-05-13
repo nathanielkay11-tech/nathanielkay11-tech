@@ -22,10 +22,12 @@ Event-driven pipeline automating insurance claims processing end-to-end.
 
 ---
 
-### 🔍 AWS Bedrock RAG Pipeline ⚙️ WIP
-Retrieval-Augmented Generation pipeline built on Amazon Bedrock — semantic search and document retrieval for enterprise AI applications.  
-**Stack:** AWS Bedrock · S3 · Lambda · Terraform · Python  
-[View Project](https://github.com/nathanielkay11-tech/aws-bedrock-rag-pipeline)
+### 🔍 AWS Bedrock RAG Pipeline — Legal Document Intelligence
+Production-grade RAG system enabling lawyers to ask natural language questions across an entire contract library and receive precise answers with verifiable source citations. Includes multilingual support, automated ingestion, and pre-signed URL document access.
+
+**Stack:** Bedrock Knowledge Bases · OpenSearch Serverless · Lambda · API Gateway · S3 · Terraform IaC
+
+📉 99.8% cost reduction vs manual associate review · [▶️ Watch Demo](https://youtu.be/Sdih82BqQtI) · [View Project](https://github.com/nathanielkay11-tech/aws-bedrock-rag-pipeline)
 
 ---
 
