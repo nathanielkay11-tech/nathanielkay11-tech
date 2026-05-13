@@ -18,7 +18,7 @@ I build production-grade AI and cloud infrastructure — from serverless pipelin
 ### 🤖 Serverless AI Document Intelligence Pipeline
 Event-driven pipeline automating insurance claims processing end-to-end.  
 **Stack:** S3 → Lambda → Textract → Bedrock → DynamoDB → SNS/SQS · Terraform IaC  
-📉 98.7% cost reduction vs manual processing · [▶️ Live Demo](https://www.youtube.com/watch?v=TYg1RSfvLNQ)
+📉 98.7% cost reduction vs manual processing · [▶️ Live Demo](https://www.youtube.com/watch?v=TYg1RSfvLNQ) · [View Project](https://github.com/nathanielkay11-tech/aws-ai-document-pipeline)
 
 ---
 
@@ -34,6 +34,7 @@ Production-grade RAG system enabling lawyers to ask natural language questions a
 ### ☁️ High-Availability Three-Tier AWS Stack
 Production-pattern HA infrastructure — ALB, ASG, EC2, RDS Multi-AZ, dual NAT Gateways.  
 **Stack:** Terraform · AWS VPC · RDS · EC2
+[View Project]([https://github.com/nathanielkay11-tech/aws-three-tier-ha-stack)]
 
 ---
 
