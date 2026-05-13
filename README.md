@@ -42,7 +42,7 @@ Production-pattern HA infrastructure — ALB, ASG, EC2, RDS Multi-AZ, dual NAT G
 ## 🔭 Currently
 - 🏢 Solutions Architect @ Latent Knowledge
 - 🎯 Targeting SE/SA roles at AWS partners and AI companies in Amsterdam
-- 🛠️ Building: AWS Bedrock RAG Pipeline
+- 🛠️ Building & Learning
 
 ---
 
